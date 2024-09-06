@@ -7,8 +7,10 @@ header,
 footer {
  width: 100%;
  height: 120px;
- background-color: rgb(255, 0, 183);
- color: white;
+ background-color: rgb(8, 171, 196);
+ color: rgba(0, 0, 0, 0.766);
+ text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+
 }
 
 h1,
@@ -36,6 +38,6 @@ p {
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid gray;
-    box-shadow: 5px 10px #888888;
+    border: 5px solid rgb(54, 6, 227);
+    box-shadow: 5px 10px #1f1281;
   }
