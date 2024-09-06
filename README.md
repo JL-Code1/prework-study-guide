@@ -24,22 +24,15 @@ If your README is long, add a table of contents to make it easy for users to fin
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
-  <img src="./assets/images/Chrome_image.png" alt="Google Chrome logo" />
-The Study Guide allows for each group of notes to be viewed with an organized approach on Chrome. 
-
-If you are unsure of where to start, open Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows). 
-
-This is going to open up a control panel for you (this is how you can close DevTools as well) on the right hand side of the webpage.
-
- This is where we will find our topics to study. 
  
- They all have a suggestion on which one you should start to study first. 
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+The Study Guide allows for each group of notes to be viewed with an organized approach on Chrome. 
+ <img src="./assets/images/Chrome_image.png" alt="Google Chrome logo" />
+If you are unsure of where to start, open Chrome DevTools by pressing Command+Option+I (MacOS, found on either side of the space bar) or Control+Shift+I (Windows, found in the bottom left of most keyboards). 
+<img src="./assets/images/Mac_Keyboard.png" alt="Showing where the Command and Option keys are" /> <img src="./assets/images/Windows_Keyboard.png" />
+This is going to open up a control panel for you (this is how you can close DevTools as well) on the right hand side of the webpage.
+<img src="./assets/images/Open_DevTools.png" alt="Screenshot of how Google DevTools will appear" /> 
+ From there you will click on "console" on the top menu bar. You should see a dropdown of a few bullet points. This is where we will find our topics to study. They all have a suggestion on which one you should start to study first. 
+<img src="./assets/images/Console_DevTools.png" alt="Image of the top menu and where to locate the console button" />
 
 ## Credits
 
