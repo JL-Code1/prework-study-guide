@@ -25,14 +25,20 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
  
-The Study Guide allows for each group of notes to be viewed with an organized approach on Chrome. 
- <img src="./assets/images/Chrome_image.png" alt="Google Chrome logo" />
-If you are unsure of where to start, open Chrome DevTools by pressing Command+Option+I (MacOS, found on either side of the space bar) or Control+Shift+I (Windows, found in the bottom left of most keyboards). 
-<img src="./assets/images/Mac_Keyboard.png" alt="Showing where the Command and Option keys are" /> <img src="./assets/images/Windows_Keyboard.png" />
-This is going to open up a control panel for you (this is how you can close DevTools as well) on the right hand side of the webpage.
-<img src="./assets/images/Open_DevTools.png" alt="Screenshot of how Google DevTools will appear" /> 
- From there you will click on "console" on the top menu bar. You should see a dropdown of a few bullet points. This is where we will find our topics to study. They all have a suggestion on which one you should start to study first. 
-<img src="./assets/images/Console_DevTools.png" alt="Image of the top menu and where to locate the console button" />
+- The Study Guide allows for each group of notes to be viewed with an organized approach on Chrome. 
+  <img src="./assets/images/Chrome_image.png" alt="Google Chrome logo" />
+- If you are unsure of where to start, open Chrome DevTools by pressing Command+Option+I (MacOS, found on 
+either side of the space bar) or Control+Shift+I (Windows, found in the bottom left of most keyboards). 
+ <img src="./assets/images/Mac_Keyboard.png" alt="Showing where the Command and Option keys are" /> 
+ <img src="./assets/images/Windows_Keyboard.png" />
+ - This is going to open up a control panel for you (this is how you can close DevTools as well) on the right 
+hand side of the webpage. 
+ <img src="./assets/images/Open_DevTools.png" alt="Screenshot of how Google DevTools will appear" /> 
+- From there you will click on "console" on the top menu bar. You should see a dropdown of a few bullet points
+this is where we will find our topics to study. They all have a suggestion on which one you should start to 
+study first.
+ <img src="./assets/images/Console_DevTools.png" alt="Image of the top menu and where to locate the console 
+ button" />
 
 ## Credits
 
