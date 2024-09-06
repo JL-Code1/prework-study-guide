@@ -26,7 +26,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 ## Usage
  
 - The Study Guide allows for each group of notes to be viewed with an organized approach on Chrome. 
-  <img src="./assets/images/Chrome_image.png" alt="Google Chrome logo" width=80% />
+  <img src="./assets/images/Chrome_image.png" alt="Google Chrome logo" width=80% height="80%" />
 - If you are unsure of where to start, open Chrome DevTools by pressing Command+Option+I (MacOS, found on 
 either side of the space bar) or Control+Shift+I (Windows, found in the bottom left of most keyboards). 
  <img src="./assets/images/Mac_Keyboard.png" alt="Showing where the Command and Option keys are" width="70%" height="70%" /> 
